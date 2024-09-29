@@ -1,3 +1,5 @@
 this is a new feature call "feature1"
 
 very cool feature
+
+new addition
